@@ -1,1 +1,2 @@
-Final Owner Version I am testing a git conflict on Colline's PC
+# GitHub Lab Practice
+Remote edit test
