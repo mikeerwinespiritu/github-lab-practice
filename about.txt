@@ -1,1 +1,4 @@
+
 I am a 3rd-year Bachelor of Science in Information Technology (BSIT) student at the Aurora State College of Technology (ASCOT), specializing in the Application Programming track. I have a strong foundation in full-stack web development using PHP, MySQL, and JavaScript, as well as desktop application design with Java Swing. I am passionate about creating minimalist and user-friendly interfaces that solve real-world problems.
+
+BSIT 3rd Year student at ASCOT specializing in Application Programming
